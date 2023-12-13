@@ -28,26 +28,26 @@ This project is a self-driving car simulation using a convolutional neural netwo
 
 - Run the train.py script to train the self-driving car model.
 
-  bash
+- bash
 
       python train.py
-The training script will save model checkpoints and TensorBoard logs in the ./save and ./logs directories.
+- The training script will save model checkpoints and TensorBoard logs in the ./save and ./logs directories.
 
 ### Running the Simulation:
 
-After training, run the run_dataset.py script to simulate the self-driving car using images from the dataset.
+#### After training, run the run_dataset.py script to simulate the self-driving car using images from the dataset.
 
-bash
+- bash
 
     python run_dataset.py
 
-Press 'q' to exit the simulation.
+- Press 'q' to exit the simulation.
 
 ### Real-time Prediction:
 
-Use the run.py script to make real-time predictions using a connected camera.
+- Use the run.py script to make real-time predictions using a connected camera.
 
-bash 
+- bash 
 
     python run.py
 
@@ -62,9 +62,10 @@ bash
 
 ## License
 
-- This project is licensed under the MIT License - see the LICENSE file for details.
+- This project is licensed under the MIT License. See the LICENSE file for details.
 
 ## Acknowledgments
 
+- This project is based on the Autopilot-TensorFlow project by SullyChen. See License.txt for its license.
 - Inspired by the NVIDIA End-to-End Self-Driving Car model.
 - Thanks to the open-source community for various libraries used in this project.
