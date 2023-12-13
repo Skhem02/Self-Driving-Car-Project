@@ -21,14 +21,14 @@ This project is a self-driving car simulation using a convolutional neural netwo
 ### Dataset
 - The driving dataset used in this project can be downloaded from the following link:
 
-      [Download Driving Dataset](https://drive.google.com/file/d/1Ue4XohCOV5YXy57S_5tDfCVqzLr101M7/view?usp=drivesdk)https://drive.google.com/file/d/1Ue4XohCOV5YXy57S_5tDfCVqzLr101M7/view?usp=drivesdk
+      https://drive.google.com/file/d/1Ue4XohCOV5YXy57S_5tDfCVqzLr101M7/view?usp=drivesdk)https://drive.google.com/file/d/1Ue4XohCOV5YXy57S_5tDfCVqzLr101M7/view?usp=drivesdk
 
 ## Usage
 ### Training the Model:
 
 - Run the train.py script to train the self-driving car model.
 
-  ''' bash
+  bash
 
       python train.py
 The training script will save model checkpoints and TensorBoard logs in the ./save and ./logs directories.
@@ -37,16 +37,34 @@ The training script will save model checkpoints and TensorBoard logs in the ./sa
 
 After training, run the run_dataset.py script to simulate the self-driving car using images from the dataset.
 
-''' bash
+bash
 
     python run_dataset.py
 
 Press 'q' to exit the simulation.
 
-###b Real-time Prediction:
+### Real-time Prediction:
 
 Use the run.py script to make real-time predictions using a connected camera.
 
- ''' bash 
+bash 
 
     python run.py
+
+## Project Structure
+
+- driving_dataset/: Contains the driving dataset.
+- model.py: Defines the neural network model.
+- train.py: Script for training the model.
+- run_dataset.py: Script for simulating the self-driving car using the dataset.
+- run.py: Script for real-time prediction using a camera.
+- steering_wheel_image.jpg: Image of a steering wheel for visualization.
+
+## License
+
+- This project is licensed under the MIT License - see the LICENSE file for details.
+
+## Acknowledgments
+
+- Inspired by the NVIDIA End-to-End Self-Driving Car model.
+- Thanks to the open-source community for various libraries used in this project.
