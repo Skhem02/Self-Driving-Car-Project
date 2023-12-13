@@ -21,7 +21,7 @@ This project is a self-driving car simulation using a convolutional neural netwo
 ### Dataset
 - The driving dataset used in this project can be downloaded from the following link:
 
-  [Datasets](https://drive.google.com/file/d/1Ue4XohCOV5YXy57S_5tDfCVqzLr101M7/view?usp=drivesdk)https://drive.google.com/file/d/1Ue4XohCOV5YXy57S_5tDfCVqzLr101M7/view?usp=drivesdk)
+      [Datasets](https://drive.google.com/file/d/1Ue4XohCOV5YXy57S_5tDfCVqzLr101M7/view?usp=drivesdk)
   
 ## Usage
 ### Training the Model:
