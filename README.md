@@ -39,7 +39,7 @@ This project is a self-driving car simulation using a convolutional neural netwo
 
 - bash
 
-    python run_dataset.py
+      python run_dataset.py
 
 - Press 'q' to exit the simulation.
 
@@ -49,7 +49,7 @@ This project is a self-driving car simulation using a convolutional neural netwo
 
 - bash 
 
-    python run.py
+      python run.py
 
 ## Project Structure
 
