@@ -16,7 +16,7 @@ This project is a self-driving car simulation using a convolutional neural netwo
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/self-driving-car-project.git
+   git clone https://github.com/Skhem02/self-driving-car-project.git
    cd self-driving-car-project
 ### Dataset
 - The driving dataset used in this project can be downloaded from the following link:
