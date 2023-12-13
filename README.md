@@ -62,10 +62,10 @@ This project is a self-driving car simulation using a convolutional neural netwo
 
 ## License
 
-- This project is licensed under the MIT License. See the LICENSE file for details.
+- This project is licensed under the MIT License. See the [LICENSE](https://github.com/SullyChen/Autopilot-TensorFlow/blob/master/License.txt) file for details.
 
 ## Acknowledgments
 
-- This project is based on the Autopilot-TensorFlow project by SullyChen. See License.txt for its license.
-- The model architecture is inspired by the NVIDIA End-to-End Self-Driving Car model. Refer to the NVIDIA Paper for more details.
+- This project is based on the Autopilot-TensorFlow project by [SullyChen](https://github.com/SullyChen). See License.txt for its license.
+- The model architecture is inspired by the [NVIDIA](https://arxiv.org/pdf/1604.07316.pdf) End-to-End Self-Driving Car model. Refer to the NVIDIA [Paper for more details](https://towardsdatascience.com/how-a-high-school-junior-made-a-self-driving-car-705fa9b6e860).
 - Thanks to the open-source community for various libraries used in this project.
