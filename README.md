@@ -21,8 +21,8 @@ This project is a self-driving car simulation using a convolutional neural netwo
 ### Dataset
 - The driving dataset used in this project can be downloaded from the following link:
 
-      https://drive.google.com/file/d/1Ue4XohCOV5YXy57S_5tDfCVqzLr101M7/view?usp=drivesdk)https://drive.google.com/file/d/1Ue4XohCOV5YXy57S_5tDfCVqzLr101M7/view?usp=drivesdk
-
+      [Datasets](https://drive.google.com/file/d/1Ue4XohCOV5YXy57S_5tDfCVqzLr101M7/view?usp=drivesdk)https://drive.google.com/file/d/1Ue4XohCOV5YXy57S_5tDfCVqzLr101M7/view?usp=drivesdk)
+  
 ## Usage
 ### Training the Model:
 
@@ -67,5 +67,5 @@ This project is a self-driving car simulation using a convolutional neural netwo
 ## Acknowledgments
 
 - This project is based on the Autopilot-TensorFlow project by SullyChen. See License.txt for its license.
-- Inspired by the NVIDIA End-to-End Self-Driving Car model.
+- The model architecture is inspired by the NVIDIA End-to-End Self-Driving Car model. Refer to the NVIDIA Paper for more details.
 - Thanks to the open-source community for various libraries used in this project.
